@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7cb09c5201a6044696af41e6534f985, type: 3}
+  m_Name: Baked Goods Banner
+  m_EditorClassIdentifier: 
+  bannerName: Baked Goods Banner
+  pullsSinceLastFourStar: 0
+  pullsSinceLastFiveStar: 0
+  lastFiveStarID: -1
+  totalNumPullsOnBanner: 0
+  threeStars:
+  - {fileID: 11400000, guid: d83632dbef2a94d43a807daf5397b428, type: 2}
+  fourStars:
+  - {fileID: 11400000, guid: 10e6a070bf5aeaa44bbe040b879309d0, type: 2}
+  - {fileID: 11400000, guid: cc8ad0560eb0611419c9d9e8be6ad19b, type: 2}
+  - {fileID: 11400000, guid: 3669feff721979049998de872eaaa540, type: 2}
+  fiveStars:
+  - {fileID: 11400000, guid: c0582754a51e5bb428b2e77ca851ebb6, type: 2}
+  - {fileID: 11400000, guid: b971952771d2fcf439ffa85045ca5419, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7cb09c5201a6044696af41e6534f985, type: 3}
+  m_Name: Fruits Banner
+  m_EditorClassIdentifier: 
+  bannerName: Fruits Banner
+  pullsSinceLastFourStar: 0
+  pullsSinceLastFiveStar: 0
+  lastFiveStarID: -1
+  totalNumPullsOnBanner: 0
+  threeStars:
+  - {fileID: 11400000, guid: d20d9d33aff09d843b6753b78fe320bf, type: 2}
+  fourStars:
+  - {fileID: 11400000, guid: c528d25d9f598ca4591a2be03843c599, type: 2}
+  - {fileID: 11400000, guid: 92da68aa246b358479e36c14519b7823, type: 2}
+  - {fileID: 11400000, guid: ec816c8743066ba419d6c249a529b83d, type: 2}
+  fiveStars:
+  - {fileID: 11400000, guid: c0582754a51e5bb428b2e77ca851ebb6, type: 2}
+  - {fileID: 11400000, guid: dfe821a1501d77d4ca0d77dee975a342, type: 2}

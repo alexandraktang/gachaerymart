@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7cb09c5201a6044696af41e6534f985, type: 3}
+  m_Name: Vegetable Banner
+  m_EditorClassIdentifier: 
+  bannerName: Vegetable Banner
+  pullsSinceLastFourStar: 0
+  pullsSinceLastFiveStar: 0
+  lastFiveStarID: -1
+  totalNumPullsOnBanner: 0
+  threeStars:
+  - {fileID: 11400000, guid: b78d68f414cdcbc47923b8299e3abdda, type: 2}
+  fourStars:
+  - {fileID: 11400000, guid: 5a87800797b65204185967e2be5577e4, type: 2}
+  - {fileID: 11400000, guid: c5ce757d11ef47244b9efdfde6ba2e56, type: 2}
+  - {fileID: 11400000, guid: 67262d8e9426e504db66cc90472b7d47, type: 2}
+  fiveStars:
+  - {fileID: 11400000, guid: c0582754a51e5bb428b2e77ca851ebb6, type: 2}
+  - {fileID: 11400000, guid: b0774d6eda0cd6a4dba816e8dbbd706a, type: 2}

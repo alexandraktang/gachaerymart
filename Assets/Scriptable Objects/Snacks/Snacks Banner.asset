@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7cb09c5201a6044696af41e6534f985, type: 3}
+  m_Name: Snacks Banner
+  m_EditorClassIdentifier: 
+  bannerName: Snacks Banner
+  pullsSinceLastFourStar: 0
+  pullsSinceLastFiveStar: 0
+  lastFiveStarID: -1
+  totalNumPullsOnBanner: 0
+  threeStars:
+  - {fileID: 11400000, guid: 60850c503220ee84fbf2ef624c0f060a, type: 2}
+  fourStars:
+  - {fileID: 11400000, guid: 31610bdef688ff948b65b9067e521e30, type: 2}
+  - {fileID: 11400000, guid: 420f9cdc69ddbd348a759b6d9a4957f3, type: 2}
+  - {fileID: 11400000, guid: c436005e09da5674aaaf6e16c8bd6580, type: 2}
+  fiveStars:
+  - {fileID: 11400000, guid: c0582754a51e5bb428b2e77ca851ebb6, type: 2}
+  - {fileID: 11400000, guid: 6103601e0854e93428f7a5010b442bd1, type: 2}
